@@ -31,3 +31,10 @@ FINAL NOTES:
 ----------------------------------------------------------------
 Download ReShade from here: https://reshade.me
 Not sure what API your game uses? use this: https://www.pcgamingwiki.com (Press CTRL + F, then type "API" to see what API your game uses).
+----------------------------------------------------------------
+System Specifications I used for testing and developing (Lenovo Legion 5 15ACH6H):
+AMD Ryzen 7 5800H
+NVIDIA RTX 3070 Laptop GPU, 8 GB VRAM, 130w
+32 GB RAM (upgraded from 16 GB)
+More info can be found here: https://psref.lenovo.com/syspool/Sys/PDF/Legion/Lenovo_Legion_5_15ACH6H/Lenovo_Legion_5_15ACH6H_Spec.pdf
+
