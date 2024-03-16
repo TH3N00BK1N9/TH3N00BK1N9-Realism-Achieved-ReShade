@@ -10,6 +10,9 @@ Remember, this is ReShade and so it only takes into account depth input so do no
 
 ---------------------------------------------------------------
 How to install:
+
+Video tutorial here: https://youtu.be/ir9Say-e0z0?si=Bt2mneDfHYxgM7r0
+
 1. Download the files from this GitHub page and extract the .zip file.
 2. Simply install ReShade to the game of your choice.
 3. When prompted by the ReShade installer, browse TH3N00BK1N9_SSRTGI.ini (if you downloaded it and left it there, it should be in your downloads folder).
