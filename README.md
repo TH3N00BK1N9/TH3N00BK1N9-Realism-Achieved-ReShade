@@ -9,7 +9,7 @@ Some game weirdly crash for example Red Dead Redeption 2 will crash when I pause
 Remember, this is ReShade and so it only takes into account depth input so do not expect a massive change as it still uses the game's lighting to add appropriate global illumination and ambiant occlusion. 
 ---------------------------------------------------------------
 Update Log:
-1. Upadted all effects
+1. Updated all effects
 2. Removed HDR effect (made images too dark and addeed too much contrast)
 3. SSRTGI no longer glows (or no obvious glow) around smaller objects
 4. Renamed to "TH3N00BK1N9's Realism Achieved ReShade"
