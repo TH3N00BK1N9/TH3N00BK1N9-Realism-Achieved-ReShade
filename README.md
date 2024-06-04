@@ -13,6 +13,7 @@ Update Log:
 2. Removed HDR effect (made images too dark and addeed too much contrast)
 3. SSRTGI no longer glows (or no obvious glow) around smaller objects
 4. Renamed to "TH3N00BK1N9's Realism Achieved ReShade"
+5. Fixed inaccurate Global Illumination
 ---------------------------------------------------------------
 How to install:
 
