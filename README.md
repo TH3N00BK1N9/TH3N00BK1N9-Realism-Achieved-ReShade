@@ -14,7 +14,6 @@ Update Log:
 3. SSRTGI no longer glows (or no obvious glow) around smaller objects
 4. Renamed to "TH3N00BK1N9's Realism Achieved ReShade"
 5. Fixed inaccurate Global Illumination
-6. New HDR version available (added this because it looks nice in some games, ugly in others. Pick your poison)
 ---------------------------------------------------------------
 How to install:
 
