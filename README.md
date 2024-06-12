@@ -2,11 +2,11 @@
 Wanted to add ray tracing to almost any game of your choosing? Well, now you can with this FREE universal ReShade preset!
 ---------------------------------------------------------------
 Before we begin:
-I strongly recommend that you use this preset with games that do not max out your GPU since it will crash your game. IF you do want to use it then turn some graphics settings down so avoid any issues.
+I strongly recommend that you use this preset with games that do not max out your GPU since it will crash your game. IF you do want to use it then turn some graphics settings down so avoid any issues. This may vary between devices however.
 
 Some game weirdly crash for example Red Dead Redeption 2 will crash when I pause the game or open the map with this shader on, I don't know why it just does, so be sure to toggle the effects off when opening menus. 
 
-Remember, this is ReShade and so it only takes into account depth input so do not expect a massive change as it still uses the game's lighting to add appropriate global illumination and ambiant occlusion. 
+Remember, this is ReShade and so it only takes into account depth input so, do not expect a massive change as it still uses the game's lighting to add appropriate global illumination and ambiant occlusion. 
 ---------------------------------------------------------------
 How to install:
 1. Download the files from this GitHub page and extract the .zip file.
