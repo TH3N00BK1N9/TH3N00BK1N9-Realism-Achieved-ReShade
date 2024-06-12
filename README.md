@@ -8,9 +8,6 @@ Some game weirdly crash for example Red Dead Redeption 2 will crash when I pause
 
 Remember, this is ReShade and so it only takes into account depth input so do not expect a massive change as it still uses the game's lighting to add appropriate global illumination and ambiant occlusion. 
 ---------------------------------------------------------------
-Update Log:
-1. Updated all effects
----------------------
 How to install:
 1. Download the files from this GitHub page and extract the .zip file.
 2. Simply install ReShade to the game of your choice.
