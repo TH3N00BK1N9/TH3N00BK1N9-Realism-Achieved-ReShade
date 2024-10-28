@@ -14,12 +14,12 @@ How to install:
 3. When prompted by the ReShade installer, browse TH3N00BK1N9_SSRTGI.ini (if you downloaded it and left it there, it should be in your downloads folder).
 4. Continue with installation as normal.
 5. HOLD UP! Don't start your game just yet as some shaders won't be installed since they don't come with ReShade!
-6. In order to fix this, locate where you extraced "TH3N00BK1N9 SSRTGI Shaders" then go to "reshade-shaders" folder and there should be a "Shaders" and "Textures" folder. Drag and drop these to where your game .exe is, open the "reshade-shaders" folder (from your game .exe location) and copy and paste the "Shaders" and "Textures" folder, replacing everything (Steam, GOG, Epic Games etc. should have a "browse local file" (or something simmilar to browse the location of the game .exe, fronm there you can find and navigate the "reshade-shaders" folder).
+6. In order to fix this, locate where you extraced "TH3N00BK1N9 SSRTGI Shaders" then go to "reshade-shaders" folder and there should be a "Shaders" and "Textures" folder. Drag and drop these to where your game .exe is, open the "reshade-shaders" folder (from your game .exe location) and copy and paste the "Shaders" and "Textures" folder, replacing everything (Steam, GOG, Epic Games etc. should have a "browse local file" (or something simmilar to browse the location of the game .exe, from there you can find and navigate the "reshade-shaders" folder).
 7. DONE! You have successfully installed SSRTGI to your game.
 You may need to adjust display depth, there are many tutorais online, (when I have the time, I will provide one soon!) in the addons tab there should be a way to support DLSS, FSR, XeSS or any other upscaler. 
 ----------------------------------------------------------------
 FINAL NOTES:
-1. I DO NOT TAKE BLAME IF YOU USE THIS ON AN ONLINE GAME AND EXPERIENCE PERFORMANCE ISSUES OR GET BANNED. USING MODS LIKE RESSHADE CAN IMPACT PERFORMANCE AND MAY VIOLATE THE TERMS OF SERVICE OF CERTAIN GAMES. IT'S YOUR RESPONSIBILITY TO ENSURE COMPLIANCE AND ACCEPT ANY RISKS ASSOCIATED WITH USING MODS.
+1. I DO NOT TAKE BLAME IF YOU USE THIS ON AN ONLINE GAME AND EXPERIENCE PERFORMANCE ISSUES OR GET BANNED. USING MODS LIKE RESHADE CAN IMPACT PERFORMANCE AND MAY VIOLATE THE TERMS OF SERVICE OF CERTAIN GAMES. IT'S YOUR RESPONSIBILITY TO ENSURE COMPLIANCE AND ACCEPT ANY RISKS ASSOCIATED WITH USING MODS.
 2. FEEL FREE TO EDIT THE SHADERS, BUT PLEASE DO NOT CLAIM THE PRESET TO BE YOURS OR USE IT FOR COMMERCIAL PURPOSES WITHOUT APPROPRIATE ATTRIBUTION.
 3. YOU'RE WELCOME TO SHOWCASE YOUR CUSTOMIZED SETTINGS ON SOCIAL MEDIA. NO NEED TO ASK PERMISSION, BUT A SHOUTOUT WOULD BE APPRECIATED!
 4. THIS IS VERY PERFORMANCE HEAVY SO EXPECT YOUR PERFORMANCE TO DROP!
