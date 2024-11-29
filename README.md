@@ -2,11 +2,11 @@
 Wanted to add ray tracing to almost any game of your choosing? Well, now you can with this FREE universal ReShade preset!
 ---------------------------------------------------------------
 Before we begin:
-I strongly recommend that you use this preset with games that do not max out your GPU since it will crash your game. IF you do want to use it then turn some graphics settings down so avoid any issues. This may vary between devices however.
+I strongly recommend that you use this preset with games that do not max out your GPU since it will crash your game. IF you do want to use it then turn some graphics settings down so avoid any issues. This may vary between devices, however.
 
-Some game weirdly crash for example Red Dead Redeption 2 will crash when I pause the game or open the map with this shader on, I don't know why it just does, so be sure to toggle the effects off when opening menus. 
+Some game weirdly crash for example Red Dead Redemption 2 will crash when I pause the game or open the map with this shader on, I don't know why it just does, so be sure to toggle the effects off when opening menus. 
 
-Remember, this is ReShade and so it only takes into account depth input so, do not expect a massive change as it still uses the game's lighting to add appropriate global illumination and ambiant occlusion. 
+Remember, this is ReShade and so it only takes into account depth input so, do not expect a massive change as it still uses the game's lighting to add appropriate global illumination and ambient occlusion. 
 ---------------------------------------------------------------
 How to install:
 1. Download the files from this GitHub page and extract the .zip file.
@@ -14,9 +14,9 @@ How to install:
 3. When prompted by the ReShade installer, browse TH3N00BK1N9_SSRTGI.ini (if you downloaded it and left it there, it should be in your downloads folder).
 4. Continue with installation as normal.
 5. HOLD UP! Don't start your game just yet as some shaders won't be installed since they don't come with ReShade!
-6. In order to fix this, locate where you extraced "TH3N00BK1N9 SSRTGI Shaders" then go to "reshade-shaders" folder and there should be a "Shaders" and "Textures" folder. Drag and drop these to where your game .exe is, open the "reshade-shaders" folder (from your game .exe location) and copy and paste the "Shaders" and "Textures" folder, replacing everything (Steam, GOG, Epic Games etc. should have a "browse local file" (or something simmilar to browse the location of the game .exe, from there you can find and navigate the "reshade-shaders" folder).
+6. In order to fix this, locate where you extracted "TH3N00BK1N9 SSRTGI Shaders" then go to "reshade-shaders" folder and there should be a "Shaders" and "Textures" folder. Drag and drop these to where your game .exe is, open the "reshade-shaders" folder (from your game .exe location) and copy and paste the "Shaders" and "Textures" folder, replacing everything (Steam, GOG, Epic Games etc. should have a "browse local file" (or something similar to browse the location of the game .exe, from there you can find and navigate the "reshade-shaders" folder).
 7. DONE! You have successfully installed SSRTGI to your game.
-You may need to adjust display depth, there are many tutorais online, (when I have the time, I will provide one soon!) in the addons tab there should be a way to support DLSS, FSR, XeSS or any other upscaler. 
+You may need to adjust display depth, there are many tutorials online, (when I have the time, I will provide one soon!) in the addons tab there should be a way to support DLSS, FSR, XeSS or any other upscaler. 
 ----------------------------------------------------------------
 FINAL NOTES:
 1. I DO NOT TAKE BLAME IF YOU USE THIS ON AN ONLINE GAME AND EXPERIENCE PERFORMANCE ISSUES OR GET BANNED. USING MODS LIKE RESHADE CAN IMPACT PERFORMANCE AND MAY VIOLATE THE TERMS OF SERVICE OF CERTAIN GAMES. IT'S YOUR RESPONSIBILITY TO ENSURE COMPLIANCE AND ACCEPT ANY RISKS ASSOCIATED WITH USING MODS.
